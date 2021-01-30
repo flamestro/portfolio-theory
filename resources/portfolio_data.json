@@ -1,0 +1,206 @@
+{
+    "AMD": {
+        "volatility": 0.5171,
+        "return": 0.7052,
+        "correlations": {
+            "AMZ": 0.57,
+            "APPL": 0.13,
+            "ASML.DE": 0.56,
+            "ASML": 0.55,
+            "CCC3": 0.37,
+            "DDWI": 0.39,
+            "WDIS": 0.43,
+            "MRSOFT": 0.6,
+            "NVIDIA": 0.71,
+            "PLUG": 0.31,
+            "TESLA": 0.25
+        }
+    },
+    "AMZ": {
+        "volatility": 0.3578,
+        "return": 0.6186,
+        "correlations": {
+            "AMD": 0.57,
+            "APPL": 0.07,
+            "ASML.DE": 0.46,
+            "ASML": 0.42,
+            "CCC3": 0.12,
+            "DDWI": 0.28,
+            "WDIS": 0.24,
+            "MRSOFT": 0.77,
+            "NVIDIA": 0.6,
+            "PLUG": 0.23,
+            "TESLA": 0.16
+        }
+    },
+    "APPL": {
+        "volatility": 0.3549,
+        "return": 0.6302,
+        "correlations": {
+            "AMD": 0.13,
+            "AMZ": 0.07,
+            "ASML.DE": 0.18,
+            "ASML": 0.21,
+            "CCC3": 0.17,
+            "DDWI": 0.08,
+            "WDIS": 0.15,
+            "MRSOFT": 0.11,
+            "NVIDIA": -0.02,
+            "PLUG": 0.06,
+            "TESLA": 0.88
+        }
+    },
+    "ASML.DE": {
+        "volatility": 0.3676,
+        "return": 0.6821,
+        "correlations": {
+            "AMD": 0.56,
+            "AMZ": 0.46,
+            "APPL": 0.18,
+            "ASML": 0.90,
+            "CCC3": 0.62,
+            "DDWI": 0.53,
+            "WDIS": 0.72,
+            "MRSOFT": 0.70,
+            "NVIDIA": 0.71,
+            "PLUG": 0.64,
+            "TESLA": 0.35
+        }
+    },
+    "ASML": {
+        "volatility": 0.3983,
+        "return": 0.6741,
+        "correlations": {
+            "AMD": 0.55,
+            "AMZ": 0.42,
+            "APPL": 0.21,
+            "ASML.DE": 0.90,
+            "CCC3": 0.60,
+            "DDWI": 0.45,
+            "WDIS": 0.70,
+            "MRSOFT": 0.62,
+            "NVIDIA": 0.66,
+            "PLUG": 0.62,
+            "TESLA": 0.37
+        }
+    },
+    "CCC3": {
+        "volatility": 0.3365,
+        "return": -0.2257,
+        "correlations": {
+            "AMD": 0.37,
+            "AMZ": 0.12,
+            "APPL": 0.17,
+            "ASML.DE": 0.62,
+            "ASML": 0.60,
+            "DDWI": 0.60,
+            "WDIS": 0.71,
+            "MRSOFT": 0.43,
+            "NVIDIA": 0.37,
+            "PLUG": 0.31,
+            "TESLA": 0.29
+        }
+    },
+    "DDWI": {
+        "volatility": 0.2914,
+        "return": 0.1033,
+        "correlations": {
+            "AMD": 0.39,
+            "AMZ": 0.28,
+            "APPL": 0.08,
+            "ASML.DE": 0.53,
+            "ASML": 0.45,
+            "CCC3": 0.60,
+            "WDIS": 0.55,
+            "MRSOFT": 0.48,
+            "NVIDIA": 0.57,
+            "PLUG": 0.31,
+            "TESLA": 0.14
+        }
+    },
+    "WDIS": {
+        "volatility": 0.4324,
+        "return": 0.0967,
+        "correlations": {
+            "AMD": 0.43,
+            "AMZ": 0.24,
+            "APPL": 0.15,
+            "ASML.DE": 0.72,
+            "ASML": 0.70,
+            "CCC3": 0.71,
+            "DDWI": 0.55,
+            "MRSOFT": 0.54,
+            "NVIDIA": 0.48,
+            "PLUG": 0.49,
+            "TESLA": 0.29
+        }
+    },
+    "MRSOFT": {
+        "volatility": 0.3180,
+        "return": 0.2755,
+        "correlations": {
+            "AMD": 0.60,
+            "AMZ": 0.77,
+            "APPL": 0.11,
+            "ASML.DE": 0.70,
+            "ASML": 0.62,
+            "CCC3": 0.43,
+            "DDWI": 0.48,
+            "WDIS": 0.54,
+            "NVIDIA": 0.74,
+            "PLUG": 0.45,
+            "TESLA": 0.24
+        }
+    },
+    "NVIDIA": {
+        "volatility": 0.4542,
+        "return": 0.9443,
+        "correlations": {
+            "AMD": 0.71,
+            "AMZ": 0.60,
+            "APPL": -0.02,
+            "ASML.DE": 0.71,
+            "ASML": 0.66,
+            "CCC3": 0.37,
+            "DDWI": 0.57,
+            "WDIS": 0.48,
+            "MRSOFT": 0.74,
+            "PLUG": 0.42,
+            "TESLA": 0.14
+        }
+    },
+    "PLUG": {
+        "volatility": 1.0389,
+        "return": 15.9609,
+        "correlations": {
+            "AMD": 0.31,
+            "AMZ": 0.23,
+            "APPL": 0.06,
+            "ASML.DE": 0.64,
+            "ASML": 0.62,
+            "CCC3": 0.31,
+            "DDWI": 0.31,
+            "WDIS": 0.49,
+            "MRSOFT": 0.45,
+            "NVIDIA": 0.42,
+            "TESLA": 0.22
+        }
+    },
+    "TESLA": {
+        "volatility": 0.8795,
+        "return": 6.0867,
+        "correlations": {
+            "AMD": 0.25,
+            "AMZ": 0.16,
+            "APPL": 0.88,
+            "ASML.DE": 0.35,
+            "ASML": 0.37,
+            "CCC3": 0.29,
+            "DDWI": 0.14,
+            "WDIS": 0.29,
+            "MRSOFT": 0.24,
+            "NVIDIA": 0.14,
+            "PLUG": 0.22
+        }
+    }
+}
