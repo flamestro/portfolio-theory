@@ -4,7 +4,7 @@ from pypfopt import EfficientFrontier
 
 # https://github.com/robertmartin8/PyPortfolioOpt
 
-with open('../resources/portfolio_data.json') as file:
+with open('../resources/stock_data.json') as file:
     data = json.load(file)
 
 
